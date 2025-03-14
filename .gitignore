@@ -1,0 +1,40 @@
+# Node modules directory
+node_modules/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Environment variable files (do not commit sensitive info)
+.env
+.env.local
+.env.*.local
+
+# Build directories
+dist/
+build/
+
+# Temporary files and folders
+tmp/
+temp/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Migration output directories (customize if needed)
+migration_logs/
+migration_output/
+
+# Firestore backup/export files (if generated during migration)
+firestore_backup/
+firestore_export/
+
+# Editor directories and configuration files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

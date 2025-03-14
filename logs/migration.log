@@ -1,0 +1,39 @@
+[2025-03-14T15:37:34.392Z] [INFO] Firestore initialized successfully
+[2025-03-14T15:37:34.868Z] [INFO] Parsed 42 tables from SQL file
+[2025-03-14T15:37:34.870Z] [INFO] Starting users migration
+[2025-03-14T15:37:34.876Z] [INFO] Processed 5/5 items, generated 5 operations, encountered 0 errors
+[2025-03-14T15:37:34.876Z] [INFO] Users migration completed: 5 users processed
+[2025-03-14T15:39:58.440Z] [INFO] Firestore initialized successfully
+[2025-03-14T15:39:58.838Z] [INFO] Parsed 42 tables from SQL file
+[2025-03-14T15:39:58.839Z] [INFO] Starting users migration
+[2025-03-14T15:40:27.808Z] [INFO] Processed 1578/1578 items, generated 1578 operations, encountered 0 errors
+[2025-03-14T15:40:27.810Z] [INFO] Users migration completed: 1578 users processed
+[2025-03-14T15:41:24.985Z] [INFO] Firestore initialized successfully
+[2025-03-14T15:41:25.415Z] [INFO] Parsed 42 tables from SQL file
+[2025-03-14T15:41:25.417Z] [INFO] Starting users migration
+[2025-03-14T15:41:52.068Z] [INFO] Processed 1578/1578 items, generated 1578 operations, encountered 0 errors
+[2025-03-14T15:41:52.070Z] [INFO] Users migration completed: 1578 users processed
+[2025-03-14T15:41:52.072Z] [INFO] Starting plans migration
+[2025-03-14T15:41:52.078Z] [ERROR] Error writing batch to Firestore: Value for argument "data" is not a valid Firestore document. Cannot use "undefined" as a Firestore value (found in field "availability.forListingTypes.`1`"). If you want to ignore undefined values, enable `ignoreUndefinedProperties`.
+[2025-03-14T15:41:52.078Z] [INFO] Processed 19/19 items, generated 19 operations, encountered 19 errors
+[2025-03-14T15:41:52.079Z] [INFO] Plans migration completed: 19 plans processed
+[2025-03-14T15:41:52.081Z] [INFO] Starting listings migration
+[2025-03-14T15:41:54.708Z] [INFO] Processed 45/45 items, generated 45 operations, encountered 0 errors
+[2025-03-14T15:42:06.008Z] [INFO] Processed 255/255 items, generated 255 operations, encountered 0 errors
+[2025-03-14T15:42:13.616Z] [INFO] Processed 230/230 items, generated 230 operations, encountered 0 errors
+[2025-03-14T15:42:13.617Z] [INFO] Listings migration completed: 530 listings processed with 0 errors
+[2025-03-14T15:42:13.619Z] [INFO] Starting reviews migration
+[2025-03-14T15:42:13.829Z] [INFO] Processed 12/12 items, generated 12 operations, encountered 0 errors
+[2025-03-14T15:42:13.830Z] [INFO] Reviews migration completed: 12 reviews processed
+[2025-03-14T15:42:13.832Z] [INFO] Starting subscriptions migration
+[2025-03-14T15:42:14.064Z] [INFO] Processed 27/27 items, generated 27 operations, encountered 0 errors
+[2025-03-14T15:42:14.065Z] [INFO] Subscriptions migration completed: 27 subscriptions processed
+[2025-03-14T15:42:14.067Z] [INFO] Starting transactions migration
+[2025-03-14T15:42:15.043Z] [INFO] Processed 94/94 items, generated 94 operations, encountered 0 errors
+[2025-03-14T15:42:15.045Z] [INFO] Transactions migration completed: 94 transactions processed
+[2025-03-14T15:42:15.046Z] [INFO] Starting chatrooms migration
+[2025-03-14T15:42:15.150Z] [INFO] Processed 5/5 items, generated 5 operations, encountered 0 errors
+[2025-03-14T15:42:15.151Z] [INFO] Chatrooms migration completed: 5 chatrooms processed
+[2025-03-14T15:42:15.153Z] [INFO] Starting messages migration
+[2025-03-14T15:42:15.269Z] [INFO] Processed 12/12 items, generated 12 operations, encountered 0 errors
+[2025-03-14T15:42:15.270Z] [INFO] Messages migration completed: 12 messages processed
