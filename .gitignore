@@ -38,3 +38,4 @@ firestore_export/
 *.ntvs*
 *.njsproj
 *.sln
+serviceAccount.json
